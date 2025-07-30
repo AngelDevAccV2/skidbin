@@ -1,2 +1,0 @@
-# skidbin
-Doxbin clone
